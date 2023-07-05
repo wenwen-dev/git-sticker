@@ -27,3 +27,4 @@ Your commit must contain **only 1 file**. Verify that you did not change any exi
 [Follow me on Github](https://github.com/codediodeio) to keep track of new projects landing Fireship 🔥
 
 Adding some texts for testing pull request commit
+Adding some
